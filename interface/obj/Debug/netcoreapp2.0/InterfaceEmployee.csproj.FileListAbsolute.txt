@@ -1,0 +1,11 @@
+C:\Users\Trelia\source\repos\interface\interface\bin\Debug\netcoreapp2.0\InterfaceEmployee.deps.json
+C:\Users\Trelia\source\repos\interface\interface\bin\Debug\netcoreapp2.0\InterfaceEmployee.runtimeconfig.json
+C:\Users\Trelia\source\repos\interface\interface\bin\Debug\netcoreapp2.0\InterfaceEmployee.runtimeconfig.dev.json
+C:\Users\Trelia\source\repos\interface\interface\bin\Debug\netcoreapp2.0\InterfaceEmployee.dll
+C:\Users\Trelia\source\repos\interface\interface\bin\Debug\netcoreapp2.0\InterfaceEmployee.pdb
+C:\Users\Trelia\source\repos\interface\interface\obj\Debug\netcoreapp2.0\InterfaceEmployee.csprojAssemblyReference.cache
+C:\Users\Trelia\source\repos\interface\interface\obj\Debug\netcoreapp2.0\InterfaceEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Trelia\source\repos\interface\interface\obj\Debug\netcoreapp2.0\InterfaceEmployee.AssemblyInfoInputs.cache
+C:\Users\Trelia\source\repos\interface\interface\obj\Debug\netcoreapp2.0\InterfaceEmployee.AssemblyInfo.cs
+C:\Users\Trelia\source\repos\interface\interface\obj\Debug\netcoreapp2.0\InterfaceEmployee.dll
+C:\Users\Trelia\source\repos\interface\interface\obj\Debug\netcoreapp2.0\InterfaceEmployee.pdb
